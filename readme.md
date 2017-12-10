@@ -1,6 +1,7 @@
 
-.Net Core port of <a href="https://github.com/mgravell/fast-member" target="_blank">fast-member</a>;
+## .Net Core port of <a href="https://github.com/mgravell/fast-member" target="_blank">fast-member</a>;
 
+Original readme: 
 
 Fast access to .net fields/properties
 =====================================
